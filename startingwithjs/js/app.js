@@ -11,3 +11,4 @@ var Realhero = {
     }
 };
 Realhero.fullname();
+console.log("another  console added");
